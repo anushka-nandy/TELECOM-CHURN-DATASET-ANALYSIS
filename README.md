@@ -1,4 +1,4 @@
-# AIRTEL-DATASET-ANALYSIS
+# TELECOM CHURN-DATASET-ANALYSIS
 Telecom Customer Churn Analysis (SQL + Excel)
 
 An end-to-end analysis of two publicly available Kaggle churn datasets: a 4-operator Indian telecom dataset (Airtel, Reliance Jio, Vodafone, BSNL) and the IBM Telco sample dataset. The work covers data validation, SQL analysis in PostgreSQL, and Excel PivotTables with charts.
